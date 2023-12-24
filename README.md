@@ -11,7 +11,7 @@
 <a href="https://kaggle.com/prathamesh nigade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathamesh nigade" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Resume:</h3>
+<h3 align="left">Resume:</h3>
 <p align="center"> <a href="https://drive.google.com/file/d/1kx1k4Hc1tOKFmNlfN6kgZF0hyH1KMyB2/view" rel="noreferrer">
 <img align="center" src="https://drive.google.com/uc?export=view&id=1mj562DJkZ9W4DoNrEkBJfT6jdKSb58tK" width="100%" height="600" style="border: none;" target="_blank" />
 </a></p>
